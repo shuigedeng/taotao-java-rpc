@@ -1,0 +1,8 @@
+dependencies {
+    compile project(":taotao-rpc-common")
+    compile project(":taotao-rpc-registry")
+
+    compile 'org.springframework:spring-context:3.2.12.RELEASE'
+    compile 'org.apache.commons:commons-collections4:4.0'
+    compile 'cglib:cglib:3.1'
+}

@@ -1,0 +1,5 @@
+dependencies {
+    compile 'com.dyuproject.protostuff:protostuff-core:1.0.8'
+    compile 'com.dyuproject.protostuff:protostuff-runtime:1.0.8'
+    compile 'org.objenesis:objenesis:3.0'
+}

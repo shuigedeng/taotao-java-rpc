@@ -1,0 +1,4 @@
+dependencies {
+    compile project(":taotao-rpc-common")
+    compile project(":taotao-rpc-registry")
+}

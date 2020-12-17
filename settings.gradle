@@ -1,0 +1,5 @@
+rootProject.name = 'taotao-rpc'
+include 'taotao-rpc-client'
+include 'taotao-rpc-common'
+include 'taotao-rpc-registry'
+include 'taotao-rpc-server'
